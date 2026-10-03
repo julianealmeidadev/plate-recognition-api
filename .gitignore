@@ -1,5 +1,10 @@
 # Dependências
 node_modules/
+.venv/
+temp/
+.env
+__pycache__/
+*.pyc
 
 # Variáveis de ambiente
 .env
